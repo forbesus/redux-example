@@ -21,7 +21,7 @@ This repository was prepared to make a simple introduction to Redux. The project
 Clone the repository and install dependencies.
 
 ```
-git clone https://github.com/yildizberkay/redux-example.git
+git clone https://github.com/luis960035/redux-example.git
 cd redux-example
 ```
 
